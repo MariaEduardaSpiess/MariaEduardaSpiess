@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 ### ...and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-<br>
-<p align="center">
-    <img src="https://media.giphy.com/media/9r2YjDwdPFrBfp665u/giphy.gif" width="350">
-</p>
-
 ### Contacts:
 <a href="https://www.linkedin.com/in/maria-eduarda-spiess" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+<br>
+<br>
+<p align="center">
+    <img src="https://i.pinimg.com/originals/95/de/8b/95de8bbb25578bbed4b7422dd075db6a.jpg" width="700">
+</p>
