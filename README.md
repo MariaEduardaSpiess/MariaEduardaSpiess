@@ -1,5 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
-![Snake animation](https://github.com/MariaEduardaSpiess/MariaEduardaSpiess/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+    <img src="https://github.com/MariaEduardaSpiess/MariaEduardaSpiess/blob/output/github-contribution-grid-snake.svg">
+</p>
 
 <a href="https://github.com/MariaEduardaSpiess">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSpiess&layout=compact&langs_count=7&theme=dracula"/>&nbsp;&nbsp;
@@ -19,11 +21,10 @@ Here are some ideas to get you started:
 ### ...and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-<!-- ![gif load simulation]("https://c.tenor.com/f45-NCOT8b0AAAAC/lena-luthor-katie-mcgrath.gif") -->
-<img src="https://c.tenor.com/f45-NCOT8b0AAAAC/lena-luthor-katie-mcgrath.gif" width="350">
+<br>
+<p align="center">
+    <img src="https://c.tenor.com/f45-NCOT8b0AAAAC/lena-luthor-katie-mcgrath.gif" width="350">
+</p>
 
-### Contatos:
-<div>
-  <a href = "mailto:dudaspiess@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" target="_blank" width="40" height="40"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/maria-eduarda-spiess" target="_blank"width="40" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"width="40" height="40"></a>   
-</div>
+### Contacts:
+<a href="https://www.linkedin.com/in/maria-eduarda-spiess" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
