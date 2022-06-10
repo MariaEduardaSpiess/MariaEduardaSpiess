@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ### Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-<div class="tenor-gif-embed" data-postid="15230169" data-share-method="host" data-aspect-ratio="1.14286" data-width="100%"><a href="https://tenor.com/view/lena-luthor-katie-mcgrath-load-the-simulation-gif-15230169">Lena Luthor Katie Mcgrath GIF</a>from <a href="https://tenor.com/search/lena+luthor-gifs">Lena Luthor GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+  <img src="https://tenor.com/view/lena-luthor-katie-mcgrath-load-the-simulation-gif-15230169" width="350">
+</p>
 
 ### Contatos:
 <div>
