@@ -1,12 +1,9 @@
-<p align="center">
-  ![Snake animation](https://github.com/MariaEduardaSpiess/MariaEduardaSpiess/blob/output/github-contribution-grid-snake.svg)
-</p>
+![Snake animation](https://github.com/MariaEduardaSpiess/MariaEduardaSpiess/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <a href="https://github.com/seu-usuário-aqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSpiess&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/MariaEduardaSpiess">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEduardaSpiess&layout=compact&langs_count=7&theme=dracula"/>&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaEduardaSpiess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
+</a>
 
 ## 👋 Hello! Welcome to my Github profile.
 ### My name is Maria Eduarda Spiess and my nickname is Duda!
@@ -18,14 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm addicted to diet coke
 
 ### Currently working with these technologies:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 
 ### Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="40" height="40"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
-<p align="center">
 ![gif load simulation]("https://tenor.com/bb4d3.gif")
-</p>
 
 ### Contatos:
 <div>
