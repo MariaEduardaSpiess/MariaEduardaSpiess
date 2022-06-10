@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-    <img src="https://c.tenor.com/f45-NCOT8b0AAAAC/lena-luthor-katie-mcgrath.gif" width="350">
+    <img src="https://media.giphy.com/media/9r2YjDwdPFrBfp665u/giphy.gif" width="350">
 </p>
 
 ### Contacts:
