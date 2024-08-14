@@ -11,7 +11,7 @@
 ### My name is Maria Eduarda Spiess and my nickname is Duda!
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on PicPay
+- 🔭 I’m currently working on iFood
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm addicted to diet coke
 
